@@ -14,7 +14,7 @@ react-native-app-intro is a react native component implementing a parallax effec
 ### Installation
 
 ```bash
-$ npm i react-native-app-intro --save
+$ yarn add https://github.com/lyqgit/react-native-app-intro
 ```
 
 ### Basic Usage
